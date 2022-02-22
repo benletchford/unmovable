@@ -13,7 +13,7 @@ Unmovable is a cross-platform (Android and iPhone) react-native puzzle game rush
 
 The app is currently available on both Android and iOS platforms (this may not always be the case and the links may eventually not work).
 
-[Play Store Link](https://play.google.com/store/apps/details?id=au.com.benl.unmovable)
+[Play Store Link](https://play.google.com/store/apps/details?id=au.com.benl.unmovable2)
 
 [iTunes Store Link](https://itunes.apple.com/au/app/unmovable/id1190251517?mt=8)
 
